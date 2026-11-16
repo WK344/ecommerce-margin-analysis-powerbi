@@ -57,9 +57,3 @@ Margin is calculated as total profit divided by total sales, not by adding up th
 ## How to open
 
 Download the `.pbix` file and open it in Power BI Desktop (free for Windows).
-
-## What I would do next
-
-- Add slicers for year, country, and category
-- Build a proper date table and year-over-year measures
-- Split the flat file into a star schema (orders, customers, products)

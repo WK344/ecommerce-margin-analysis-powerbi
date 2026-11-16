@@ -4,8 +4,6 @@
 
 A Power BI dashboard that answers one question: **sales look steady, so where is the profit margin going?**
 
-![Dashboard](dashboard.png)
-
 ## Dataset
 
 - **Source:** E-commerce Orders Dataset 2026 on Kaggle (MIT license). Add the Kaggle link here.

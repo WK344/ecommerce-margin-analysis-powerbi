@@ -52,7 +52,6 @@ Margin is calculated as total profit divided by total sales, not by adding up th
 ## Files
 
 - `ecommerce-margin-analysis.pbix`: the Power BI report
-- `dashboard.png`: screenshot of the dashboard
 
 ## How to open
 
